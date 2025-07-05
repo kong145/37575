@@ -27,4 +27,4 @@
 此外，我们还提供「本周热播」、「网友推荐」、「新片速递」等专属内容模块，帮助用户发现更多优质影片。页面设计简洁清晰，无跳转、无广告干扰，播放稳定、安全、快速。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/kong145/37575 ）</span>
